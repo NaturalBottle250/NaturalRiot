@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\RiotLib\NaturalRiot\obj\Debug\net7.0\NaturalRiot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\RiotLib\NaturalRiot\obj\Debug\net7.0\NaturalRiot.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\RiotLib\NaturalRiot\obj\Debug\net7.0\NaturalRiot.AssemblyInfo.cs
+C:\Users\danie\source\repos\RiotLib\NaturalRiot\obj\Debug\net7.0\NaturalRiot.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\RiotLib\NaturalRiot\bin\Debug\net7.0\NaturalRiot.deps.json
+C:\Users\danie\source\repos\RiotLib\NaturalRiot\bin\Debug\net7.0\NaturalRiot.dll
+C:\Users\danie\source\repos\RiotLib\NaturalRiot\bin\Debug\net7.0\NaturalRiot.pdb
+C:\Users\danie\source\repos\RiotLib\NaturalRiot\obj\Debug\net7.0\NaturalRiot.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\RiotLib\NaturalRiot\obj\Debug\net7.0\NaturalRiot.dll
+C:\Users\danie\source\repos\RiotLib\NaturalRiot\obj\Debug\net7.0\refint\NaturalRiot.dll
+C:\Users\danie\source\repos\RiotLib\NaturalRiot\obj\Debug\net7.0\NaturalRiot.pdb
+C:\Users\danie\source\repos\RiotLib\NaturalRiot\obj\Debug\net7.0\ref\NaturalRiot.dll

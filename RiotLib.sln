@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaturalRiot", "NaturalRiot\NaturalRiot.csproj", "{6E4A150B-5345-4070-B541-D5A345D1F590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiotTester", "RiotTester\RiotTester.csproj", "{670F3B67-6395-4611-95C1-3CE81271E15A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6E4A150B-5345-4070-B541-D5A345D1F590} = {6E4A150B-5345-4070-B541-D5A345D1F590}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E4A150B-5345-4070-B541-D5A345D1F590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4A150B-5345-4070-B541-D5A345D1F590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4A150B-5345-4070-B541-D5A345D1F590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4A150B-5345-4070-B541-D5A345D1F590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670F3B67-6395-4611-95C1-3CE81271E15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670F3B67-6395-4611-95C1-3CE81271E15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670F3B67-6395-4611-95C1-3CE81271E15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670F3B67-6395-4611-95C1-3CE81271E15A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A1838EF-F838-4887-AB95-7A584353D199}
+	EndGlobalSection
+EndGlobal
